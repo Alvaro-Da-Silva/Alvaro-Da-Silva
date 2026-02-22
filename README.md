@@ -1,12 +1,12 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">- Frontend developer <br>- Software developer at LabTecOne<br>- majoring in Software Engineering at UNISATC.</p>
+<p align="left">- Desenvolvedor frontEnd <br>- Desenvolvedor de software do labtec <br>- Cursando engenharia de software na UNISATC.</p>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
